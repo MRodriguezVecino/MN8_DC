@@ -12,3 +12,4 @@ This repo is made to host and sync all scripts DC analysis related.
 3) You can work on your files on that folder
 4) Create Pull Requests when you want to apply the changes to the main branch
 5) Take some time to learn about Git. I recommend the track "https://app.datacamp.com/learn/skill-tracks/github-foundations"
+ASDASD
